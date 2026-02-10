@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-todo-list",
-    "slug": "react-native-todo-list",
+    "name": "react-native-introduction",
+    "slug": "react-native-introduction",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -31,7 +31,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "27f3d650-215c-4b85-8d8d-3b462505ef15"
+        "projectId": "69ca147b-23ab-438c-9b7e-279383bb6dbd"
       }
     }
   }
