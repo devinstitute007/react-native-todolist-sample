@@ -14,10 +14,10 @@ export default function App() {
   const [inputValue, setInputValue] = useState("");
   const [selectedTabName, setSelectedTabName] = useState("all");
   const [todoList, setTodoList] = useState([
-    { id: 1, title: "Builder l'application", isCompleted: true },
-    { id: 2, title: "Sauvegarder l'app sur github", isCompleted: false },
-    { id: 3, title: "Se connecter à la plateforme eas", isCompleted: false },
-    { id: 4, title: "Builder et publier l'application", isCompleted: false },
+    { id: 1, title: "Tester l'execution de l'application", isCompleted: true },
+    { id: 2, title: "Exporter l'application", isCompleted: false },
+    { id: 3, title: "Publier l'application", isCompleted: false },
+    { id: 4, title: "Distribuer l'application", isCompleted: false },
   ]);
 
   function onPressTodo(pressedTodo) {
